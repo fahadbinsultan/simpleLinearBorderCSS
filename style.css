@@ -1,0 +1,30 @@
+body{
+	padding: 0;
+	margin: 0;
+	display: block;
+	margin: 200px auto;
+	background: #3d4761;
+	
+}
+.buttonWrapper {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, #4e7fc0, #a572cf) repeat scroll 0 0;
+  border: medium none;
+  border-radius: 51px;
+  display: block;
+  height: 44px;
+  margin: 0 auto;
+  text-align: center;
+  width: 160px;
+}
+.buttonWrapper button {
+  background: #3d4761 none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-top: 4px;
+  padding: 10px;
+  width: 152px;
+  font-size: 11px;
+  letter-spacing: 1px;
+}
